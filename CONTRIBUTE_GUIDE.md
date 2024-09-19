@@ -1,3 +1,4 @@
+A lot to learn this week
 # TLTR: Creating a Pull Request
 1. Fork this repository.
 2. Clone the your new repository to your system.
